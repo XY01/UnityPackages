@@ -1,0 +1,20 @@
+{
+    "name": "com.xy01.techart-utils",
+    "version": "0.0.1",
+    "displayName": "Tech Art Utils",
+    "description": "Noise Generator - Generates noise textures. 2D/3D, Non/Tiling or noise types White, Value, Worley, Perlin. With controls for layering octaves",
+    "unity": "2022.3",   
+   "keywords": [
+      "noise",
+      "textures",
+      "shaders",
+      "utils",
+      "editor",
+      "tech art"
+    ],
+    "author": {
+      "name": "Brad Hammond (XY01)",
+      "email": "brad@xy01.net",
+      "url": "https://github.com/XY01"
+    }
+  }
